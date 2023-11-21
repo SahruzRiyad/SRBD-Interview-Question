@@ -6,12 +6,9 @@ Output: find the value of k such that f(k) = x
 
 Sample input 1:
 1 2 3 30
-Sample input 2:
-1 2 0 470000000
 
 Sample output 1:
 2
-10^7
 */
 
 #include <iostream>
